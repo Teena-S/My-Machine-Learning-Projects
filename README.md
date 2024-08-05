@@ -1,2 +1,2 @@
-# My-Machine-Learning-Projects
+# My-House-Price-Predictions
 Completion of the tasks provided at my internship at Bharat Intern...
